@@ -30,7 +30,7 @@ class list{
   }
   void lelista(){
     for(int i=0;i<tam;i++){
-      System.out.println("Numero"+ i +": Valor:" + num[i]);
+      System.out.println("Numero"+ i + 1 +": Valor:" + num[i]);
    }  
   }
   void tamanho(){
