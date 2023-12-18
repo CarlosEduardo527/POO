@@ -64,7 +64,7 @@ void lista::tamanho() {
 
 void lista::lelista() {
     for (int i = 0; i < tam; i++) {
-        std::cout << "Numero: " << i + 1 << " Valor:" << num[i] << std::endl;
+        std::cout << "Numero: " << i << " Valor:" << num[i] << std::endl;
     }
 }
 
